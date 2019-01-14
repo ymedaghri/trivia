@@ -11,5 +11,5 @@ public class SomeTest {
 	public void true_is_true() {
 		assertThat(true).isTrue();
 	}
-	
+
 }
